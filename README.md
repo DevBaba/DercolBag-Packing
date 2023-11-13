@@ -3,7 +3,6 @@
 
 
 ## Live Demo
-Check out the live version of this website in production [Live Demo](https://pameschurrer.es/positivus/)
 
 
 ## Design
